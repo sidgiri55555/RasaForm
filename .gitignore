@@ -1,9 +1,0 @@
-.idea
-
-credentials.yml
-
-models/
-
-*.log
-
-__pycache__/**
